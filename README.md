@@ -1,5 +1,4 @@
 📄 Receipt Scanning Application
-
 A Receipt Scanning Application that allows users to scan receipts, automatically extract necessary details, and provide structured information back to the user. The project leverages AI for receipt data extraction, integrates authentication and payment flow, and is styled for a modern, responsive experience.
 
 🚀 Features
