@@ -1,3 +1,4 @@
+# **Receipt Scanning Application**
 **#📄 Receipt Scanning Application**
 
 A Receipt Scanning Application that allows users to scan receipts, automatically extract necessary details, and provide structured information back to the user.
