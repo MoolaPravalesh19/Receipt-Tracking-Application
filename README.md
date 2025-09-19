@@ -1,10 +1,10 @@
-# **Receipt Scanning Application**
-**#📄 Receipt Scanning Application**
+
+# **📄 Receipt Scanning Application**
 
 A Receipt Scanning Application that allows users to scan receipts, automatically extract necessary details, and provide structured information back to the user.
 This project leverages AI (Inngest Agent) for receipt data extraction, integrates authentication and payment flow, and is styled for a modern, responsive experience.
 
-##**🚀 Features**
+## **🚀 Features**
 
 📷 Receipt Scanning – Upload or capture receipts for instant analysis.
 
@@ -18,7 +18,7 @@ This project leverages AI (Inngest Agent) for receipt data extraction, integrate
 
 🌐 Deployment – Hosted on Render for easy access and scalability.
 
-##**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Frontend Framework: Next.js
 
@@ -30,7 +30,7 @@ AI Receipt Processing: Inngest AI Agent
 
 Payment Gateway (Testing): Schematic
 
-##**Deployment: Render**
+## **Deployment: Render**
 
 📂 Project Structure
 ├── public/             # Static assets  
@@ -44,7 +44,7 @@ Payment Gateway (Testing): Schematic
 ├── package.json        # Dependencies and scripts  
 └── README.md           # Project documentation  
 
-##**⚙️ Setup & Installation**
+## **⚙️ Setup & Installation**
 1️⃣ Clone the repository
 git clone https://github.com/your-username/receipt-scanning-app.git
 cd receipt-scanning-app
@@ -66,12 +66,12 @@ npm run dev
 
 ➡️ App will be available at: http://localhost:3000
 
-##**📦 Deployment**
+## **📦 Deployment**
 
 This project is deployed using Render.
 Pushing changes to the main branch will trigger automatic deployment.
 
-##**🔮 Future Improvements**
+## **🔮 Future Improvements**
 
 🌍 Support for multi-language receipts.
 
@@ -81,7 +81,7 @@ Pushing changes to the main branch will trigger automatic deployment.
 
 👥 Team/organization-level receipt management.
 
-##**🤝 Contributing**
+## **🤝 Contributing**
 
 Contributions, issues, and feature requests are welcome! 🎉
 
@@ -91,7 +91,7 @@ Create a new branch
 
 Submit a pull request 🚀
 
-##**📜 License**
+## **📜 License**
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
